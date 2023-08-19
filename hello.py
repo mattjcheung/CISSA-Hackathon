@@ -1,3 +1,3 @@
 print(f"Hello")
-yellow = (f'smelly')
-print (yellow)
+yellow = 'smelly'
+print(yellow)
